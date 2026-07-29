@@ -14,3 +14,7 @@ While the shared **ReproRehab Pod 1** repository houses course code, examples, a
 The live website is available at:
 
 **https://madelineratoza.github.io/2026Pod1/**
+
+The Pod 1 Repository is available at: 
+
+**https://github.com/reprorehab/reprorehab2026-pod1** 
