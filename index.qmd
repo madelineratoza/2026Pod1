@@ -6,22 +6,22 @@ theme: minty
 
 ![](images/clipboard-799555881.webp)
 
-## Pod 1 
+## Pod 1
 
-This page serves to organize links and resources that will be used throughout the year.
+This page serves to organize links and resources that will be used for ReproRehab Pod 1!
 
-## Teaching Assistants: 
+## Teaching Assistants:
 
-Alexandra Reed, BS
+[Alexandra Reed, BS](https://www.linkedin.com/in/alexandra-reed-08916/)
 
 [Madeline Ratoza, PT, DPT, PhD](https://www.madelineratoza.com/)
 
 ## Resources and Links
 
-[Syllabus](https://docs.google.com/document/d/19pez6JVym8xbMrJAHm7beY213i19g4MF/edit?usp=sharing&ouid=116572267343073467545&rtpof=true&sd=true)
+[Syllabus](https://docs.google.com/document/d/19pez6JVym8xbMrJAHm7beY213i19g4MF/edit?usp=sharing&ouid=116572267343073467545&rtpof=true&sd=true) - Course schedule, learning objectives, expectations, and key dates for Pod 1.
 
-Slack Channel
+Slack Channel - Primary space for announcements, questions, discussions, and communication throughout the pod.
 
-[ReproRehab Github](https://github.com/reprorehab/reprorehab2026-pod1)
+[ReproRehab Github](https://github.com/reprorehab/reprorehab2026-pod1) - Repository where all workshop code, scripts, and reproducible project materials will be stored and updated throughout the year.
 
-[Google Drive](https://drive.google.com/drive/folders/1LEQUHGL-NXa6rSw6Od74OalAv0U6V_bR)
+[Google Drive](https://drive.google.com/drive/folders/1LEQUHGL-NXa6rSw6Od74OalAv0U6V_bR) - Shared folder containing meeting recordings, slides, handouts, reference materials, and other resources used during the pod.
