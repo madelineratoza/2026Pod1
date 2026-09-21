@@ -20,7 +20,7 @@ This page serves to organize links and resources that will be used for ReproReha
 
 [Syllabus](https://docs.google.com/document/d/19pez6JVym8xbMrJAHm7beY213i19g4MF/edit?usp=sharing&ouid=116572267343073467545&rtpof=true&sd=true) - Course schedule, learning objectives, expectations, and key dates for Pod 1.
 
-Slack Channel - Primary space for announcements, questions, discussions, and communication throughout the pod.
+[Slack Channel](https://reprorehab.slack.com/archives/C0C3T87Q9CY) - Primary space for announcements, questions, discussions, and communication throughout the pod.
 
 [ReproRehab Github](https://github.com/reprorehab/reprorehab2026-pod1) - Repository where all workshop code, scripts, and reproducible project materials will be stored and updated throughout the year.
 
