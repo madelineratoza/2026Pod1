@@ -1,0 +1,116 @@
+---
+title: "Lesson 1"
+author: "Madeline Ratoza"
+date: "2026-10-01"
+output: html_document
+---
+```{r}
+my_number <- 10
+my_number
+```
+
+```{r}
+my_name <- "ReproRehab"
+```
+#We calculated the average score for the sample.
+```{r}
+mean(c(80, 85, 90, 95))
+```
+
+```{r}
+2 + 2
+```
+```{r}
+10 / 2
+```
+```{r}
+3 * 4
+```
+```{r}
+# This is a comment
+
+5 + 5
+```
+
+```{r}
+# Calculate the total number of participants across two groups
+15 + 18
+```
+
+```{r}
+25 + 17
+```
+
+```{r}
+100 / 4
+```
+```{r}
+sqrt(144)
+```
+
+```{r}
+sqrt(25)
+```
+```{r}
+round(3.14159)
+```
+
+```{r}
+round(8.726)
+```
+
+```{r}
+head(mtcars)
+```
+```{r}
+names(mtcars)
+```
+```{r}
+summary(mtcars)
+```
+```{r}
+mean(mtcars$mpg)
+```
+
+
+```{r}
+median(mtcars$mpg)
+```
+
+```{r}
+max(mtcars$mpg)
+```
+
+```{r}
+min(mtcars$mpg)
+```
+
+```{r}
+average_mpg <- mean(mtcars$mpg)
+```
+
+```{r}
+average_mpg
+```
+
+```{r}
+Mean(mtcars$mpg)
+```
+
+```{r}
+mean(mtcars$mpg)
+```
+
+```{r}
+mean(mtcars$miles_per_gallon)
+```
+```{r}
+names(mtcars)
+```
+
+#test calculates the mean of mtcars$wt, calculates the maximum value of mtcars$mpg, includes at least one comment.
+```{r}
+mean(mtcars$wt)
+max(mtcars$mpg)
+```
+
